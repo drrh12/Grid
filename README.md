@@ -1,24 +1,40 @@
-# Grid
+# Container
 
-Container
+## display: grid
+  - transform the container in grid style
+ 
+## grid-template-column
 
-grid-template-column
-grid-template-rows
-grid-template-areas
-grid-template
-grid-column-gap
-grid-row-gap
-grid-gap
-justify-items
-align-items
-place-items
-justify-content
-align-content
-place-content
-grid-auto-columns
-grid-auto-rows
-grid-auto-flow
-grid
+## grid-template-rows
+
+## grid-template-areas
+
+## grid-template
+
+## grid-column-gap
+
+## grid-row-gap
+
+## grid-gap
+
+## justify-items
+
+## align-items
+
+## place-items
+
+## justify-content
+
+## align-content
+
+## place-content
+
+## grid-auto-columns
+
+## grid-auto-rows
+
+## grid-auto-flow
+
 
 items 
 
