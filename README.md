@@ -1,11 +1,13 @@
 # Container
 
 ## display: grid
-  - transform the container in grid style
+  - Transform the container in grid style
  
 ## grid-template-column
+  - The grid-template-columns CSS property defines the line names and track sizing functions of the grid columns.
 
 ## grid-template-rows
+  - The grid-template-rows CSS property defines the line names and track sizing functions of the grid rows.
 
 ## grid-template-areas
 
